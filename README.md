@@ -6,7 +6,7 @@
 
 ## Module 1 : Blue Green Deployment 📦
 
-[🔗**BlueGreen Deployment**](https://dashboard.eventengine.run/login](https://ecsworkshop.com/blue_green_deployments/)
+[🔗**BlueGreen Deployment**](https://ecsworkshop.com/blue_green_deployments/)
 
 
 # Useful resources
