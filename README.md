@@ -6,7 +6,7 @@
 
 ## Module 1 : Blue Green Deployment 📦
 
-[🔗**BlueGreen Deployment**](https://ecsworkshop.com/blue_green_deployments/)
+[🔗**BlueGreen Deployment**](https://catalog.us-east-1.prod.workshops.aws/workshops/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36/en-US/2-prerequisites/workspace)
 
 
 # Useful resources
